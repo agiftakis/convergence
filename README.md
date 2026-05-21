@@ -1,8 +1,8 @@
 # convergence
-a Windows desktop app that orchestrates a structured multi-round debate between frontier LLMs (Claude, GPT, Gemini, Grok) against one user task, then synthesizes a single final solution shown on a local dashboard.  AI is the entire product (satisfies the "AI integral" requirement). AI software-engineering substance is the orchestration system:
+ AI software-engineering substance is the orchestration system:
 Convergence
 > A Windows desktop app that orchestrates a structured multi-round debate between frontier AI models (Claude, GPT, Gemini, Grok) on a single task, then synthesizes a unified final answer.
-Built by Andy Giftakis · Software Engineering Project
+Built by Andrew Giftakis · Software Engineering Project
 ---
 What is Convergence?
 When you ask one AI a question, you get one perspective. Convergence asks several AIs the same question, lets them debate each other across multiple rounds, and produces a single synthesized answer that incorporates the best of all of them.
